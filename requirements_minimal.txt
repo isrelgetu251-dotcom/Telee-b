@@ -1,0 +1,10 @@
+# Essential packages only for basic functionality
+python-telegram-bot>=20.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
+
+# Optional packages (install if needed)
+# pandas>=1.5.0
+# redis>=4.5.0
+# nltk>=3.8
+# psutil>=5.9.0
